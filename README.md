@@ -2,7 +2,7 @@
 
 > Poupapp é uma interface moderna, leve e responsiva construída com Tailwind CSS e JavaScript. Ideal para prototipagem rápida e como base para dashboards ou apps financeiros pessoais.
 
-[![Status](https://img.shields.io/badge/status-Em%20desenvolvimento-yellow)](https://github.com/mrsMatheusRocha/Poupapp-Tailwind)
+[![Status](https://img.shields.io/badge/status-Finalizado-yellow)](https://github.com/mrsMatheusRocha/Poupapp-Tailwind)
 [![Linguagem](https://img.shields.io/badge/linguagem-JavaScript-brightgreen)]()
 [![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4)]()
 
