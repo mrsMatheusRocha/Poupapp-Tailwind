@@ -17,7 +17,7 @@ Sumário
 - Customização rápida
 - Boas práticas e acessibilidade
 - Contribuição
-- Licença & Contato
+- Contato
 
 ---
 
@@ -31,9 +31,6 @@ Visual (Preview)
 
 - Tela inicial / Dashboard
   ![preview](./assets/preview-dashboard.png)
-
-- Modal de transação
-  ![preview](./assets/preview-modal.png)
 
 Funcionalidades principais
 --------------------------
@@ -148,10 +145,3 @@ Contato
 -------
 Mantainer: mrsMatheusRocha  
 GitHub: https://github.com/mrsMatheusRocha
-
-Quer que eu:
-- gere um README em inglês também?
-- adicione badges dinâmicos (CI, cobertura, deploy)?
-- crie arquivos básicos (tailwind.config.js, scripts de exemplo) para esse repositório?
-
-Obrigado — vamos deixar o Poupapp pronto para brilhar! ✨
